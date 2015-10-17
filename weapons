@@ -1,0 +1,17 @@
+Weapon ID Type 0=Both 1=Terrorist 2=Counter-Terrorist
+Pistols:
+	Glock18 1 1
+	P250 2 0
+	DesertEagle 3 0
+	Tec9 4 1
+	DualBerettas 5 0
+	CZ75Auto 6 0
+	UPSS 7 2
+	P2000 8 2
+	FiveSeveN 9 2
+Heavy:
+	Nova 10 0
+	XM1014 11 0
+	SawedOff 12 1
+	MAG7 13 2
+Submachine Guns:
